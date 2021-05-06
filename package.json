@@ -1,0 +1,32 @@
+{
+  "name": "posys_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-pdf/renderer": "^2.0.8",
+    "@reduxjs/toolkit": "^1.5.1",
+    "body-parser": "^1.19.0",
+    "canvas": "^2.7.0",
+    "compression": "^1.7.4",
+    "concurrently": "^6.0.2",
+    "connect-mongo": "^4.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "gm": "^1.23.1",
+    "mongoose": "^5.12.6",
+    "pdf-image": "^2.0.0",
+    "pdf-poppler": "^0.2.1",
+    "python-shell": "^3.0.0"
+  }
+}

@@ -1,0 +1,1591 @@
+[{
+		"No": 1,
+		"ACCOUNT": 637150,
+		"ACCOUNT_DESCRIPTION": "CREDIT CARD COMMISSION",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 2,
+		"ACCOUNT": 637300,
+		"ACCOUNT_DESCRIPTION": "TRAVEL AGENTS COMMISSION",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 3,
+		"ACCOUNT": 637210,
+		"ACCOUNT_DESCRIPTION": "ACCOR BUSINESS ACCOUNT COMMISSION",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 4,
+		"ACCOUNT": 634000,
+		"ACCOUNT_DESCRIPTION": "ELECTRICITY",
+		"CC": "6NZ",
+		"DPT": "Utililities",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 5,
+		"ACCOUNT": 634100,
+		"ACCOUNT_DESCRIPTION": "WATER",
+		"CC": "6NZ",
+		"DPT": "Utililities",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 6,
+		"ACCOUNT": 634200,
+		"ACCOUNT_DESCRIPTION": "GAS",
+		"CC": "6NZ",
+		"DPT": "Utililities",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 7,
+		"ACCOUNT": 634400,
+		"ACCOUNT_DESCRIPTION": "CRC CARBON TAX",
+		"CC": "6NZ",
+		"DPT": "Utililities",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 8,
+		"ACCOUNT": 664000,
+		"ACCOUNT_DESCRIPTION": "POSTAGE/COURIERS",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 9,
+		"ACCOUNT": 602600,
+		"ACCOUNT_DESCRIPTION": "OTHER SALES",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 10,
+		"ACCOUNT": 631400,
+		"ACCOUNT_DESCRIPTION": "STAFF UNIFORM",
+		"CC": "2AA",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 11,
+		"ACCOUNT": 662000,
+		"ACCOUNT_DESCRIPTION": "STATIONERY",
+		"CC": "2AA",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 12,
+		"ACCOUNT": 664600,
+		"ACCOUNT_DESCRIPTION": "CLIENT ENTERTAINMENT EXPENSES",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 13,
+		"ACCOUNT": 661270,
+		"ACCOUNT_DESCRIPTION": "TRADE SHOWS & EXHIBITION COSTS",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 14,
+		"ACCOUNT": 643110,
+		"ACCOUNT_DESCRIPTION": "CAR HIRE",
+		"CC": "3AZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 15,
+		"ACCOUNT": 643100,
+		"ACCOUNT_DESCRIPTION": "OTHER TRAVEL EXPENSES",
+		"CC": "3GZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 16,
+		"ACCOUNT": 618900,
+		"ACCOUNT_DESCRIPTION": "STAFF GIFTS",
+		"CC": "6HA1",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 17,
+		"ACCOUNT": 643231,
+		"ACCOUNT_DESCRIPTION": "ACCOMMODATION & SUBSISTENCE",
+		"CC": "6HA1",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 18,
+		"ACCOUNT": 664100,
+		"ACCOUNT_DESCRIPTION": "COST OF TELEPHONE CALLS -  ADMIN.",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 19,
+		"ACCOUNT": 643210,
+		"ACCOUNT_DESCRIPTION": "TRAIN FARES",
+		"CC": "6IZ",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 20,
+		"ACCOUNT": 661211,
+		"ACCOUNT_DESCRIPTION": "OTHER PROMOTIONAL GIFTS",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 21,
+		"ACCOUNT": 643105,
+		"ACCOUNT_DESCRIPTION": "PETROL & OIL",
+		"CC": "6IZ",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 22,
+		"ACCOUNT": 600100,
+		"ACCOUNT_DESCRIPTION": "FOOD CONSUMPTION",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 23,
+		"ACCOUNT": 600500,
+		"ACCOUNT_DESCRIPTION": "BEVERAGE CONSUMPTION",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 24,
+		"ACCOUNT": 602905,
+		"ACCOUNT_DESCRIPTION": "CONTRACT CLEANING",
+		"CC": "3GZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 25,
+		"ACCOUNT": 618400,
+		"ACCOUNT_DESCRIPTION": "STAFF FOOD",
+		"CC": "2GZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 26,
+		"ACCOUNT": 631900,
+		"ACCOUNT_DESCRIPTION": "WASTE REMOVAL AND OTHER CLEANING CONTRACTS",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 27,
+		"ACCOUNT": 661150,
+		"ACCOUNT_DESCRIPTION": "COMPLIMENTARY- REFUNDS & COMPLAINTS",
+		"CC": "6HA1",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 28,
+		"ACCOUNT": 661160,
+		"ACCOUNT_DESCRIPTION": "COMPLIMENTARY MARKETING / SPECIAL EVENTS",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 29,
+		"ACCOUNT": 661161,
+		"ACCOUNT_DESCRIPTION": "COMPLIMENTARY ?Çô F&B ?Çô SERVICES AND GIFTS",
+		"CC": "2CF",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 30,
+		"ACCOUNT": 602910,
+		"ACCOUNT_DESCRIPTION": "GUEST SUPPLIES - OPERATING",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 31,
+		"ACCOUNT": 631196,
+		"ACCOUNT_DESCRIPTION": "SERVICES CHARGES",
+		"CC": "8KA",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 32,
+		"ACCOUNT": 681530,
+		"ACCOUNT_DESCRIPTION": "DEPRECIATION - P&M - FF&ES",
+		"CC": "8DA",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 33,
+		"ACCOUNT": 618201,
+		"ACCOUNT_DESCRIPTION": "EXTERNAL STAFF TRAINING",
+		"CC": "2AA",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 34,
+		"ACCOUNT": 618950,
+		"ACCOUNT_DESCRIPTION": "STAFF FUNCTIONS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 35,
+		"ACCOUNT": 621000,
+		"ACCOUNT_DESCRIPTION": "RATES",
+		"CC": "8AA",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 36,
+		"ACCOUNT": 631210,
+		"ACCOUNT_DESCRIPTION": "FURNITURE - MTCE",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 37,
+		"ACCOUNT": 631600,
+		"ACCOUNT_DESCRIPTION": "SILVER / CHINA & GLASSWARE",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 38,
+		"ACCOUNT": 631910,
+		"ACCOUNT_DESCRIPTION": "PEST CONTROL",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 39,
+		"ACCOUNT": 633000,
+		"ACCOUNT_DESCRIPTION": "DECORATION CHARGES",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 40,
+		"ACCOUNT": 633100,
+		"ACCOUNT_DESCRIPTION": "MUSIC & TV EXPENSE",
+		"CC": "3HZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 41,
+		"ACCOUNT": 633600,
+		"ACCOUNT_DESCRIPTION": "AUDIT EXPENSE",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 42,
+		"ACCOUNT": 635620,
+		"ACCOUNT_DESCRIPTION": "GRANDBACK FEE FROM ACCOR SA",
+		"CC": "6BF",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 43,
+		"ACCOUNT": 664200,
+		"ACCOUNT_DESCRIPTION": "LINE & EQUIPMENT RENTALS",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 44,
+		"ACCOUNT": 618100,
+		"ACCOUNT_DESCRIPTION": "PRIVATE HEALTHCARE / MEDICAL",
+		"CC": "6HA1",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 45,
+		"ACCOUNT": 632200,
+		"ACCOUNT_DESCRIPTION": "COMPUTER CHARGES",
+		"CC": "6CC",
+		"DPT": "IT",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 46,
+		"ACCOUNT": 656003,
+		"ACCOUNT_DESCRIPTION": "SHARED SERVICES - REVENUE MANAGEMENT",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 47,
+		"ACCOUNT": 631240,
+		"ACCOUNT_DESCRIPTION": "TOOLS & SPARE PARTS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 48,
+		"ACCOUNT": 643205,
+		"ACCOUNT_DESCRIPTION": "AIR FARES",
+		"CC": "6HA1",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 49,
+		"ACCOUNT": 661280,
+		"ACCOUNT_DESCRIPTION": "TRADE SUBSCRIPTIONS",
+		"CC": "6IZ",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 50,
+		"ACCOUNT": 661000,
+		"ACCOUNT_DESCRIPTION": "ADVERTISING & PROMOTION",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 51,
+		"ACCOUNT": 635005,
+		"ACCOUNT_DESCRIPTION": "INTERNAL INCENTIVE FEES PAID",
+		"CC": "8OC4",
+		"DPT": "Accor",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 52,
+		"ACCOUNT": 611901,
+		"ACCOUNT_DESCRIPTION": "BONUS",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 53,
+		"ACCOUNT": 611950,
+		"ACCOUNT_DESCRIPTION": "NI + PENSION PROV ON BONUS",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 54,
+		"ACCOUNT": 631300,
+		"ACCOUNT_DESCRIPTION": "RENEWALS - KITCHEN UTENSILS",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 55,
+		"ACCOUNT": 662500,
+		"ACCOUNT_DESCRIPTION": "PRINTING",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 56,
+		"ACCOUNT": 635660,
+		"ACCOUNT_DESCRIPTION": "SHARED SERVICES - CHARGES FROM BU",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 57,
+		"ACCOUNT": 611000,
+		"ACCOUNT_DESCRIPTION": "SALARY & WAGE  INTERFACE",
+		"CC": "3GZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 58,
+		"ACCOUNT": 643220,
+		"ACCOUNT_DESCRIPTION": "CAR PARKING COSTS",
+		"CC": "3AZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 59,
+		"ACCOUNT": 618200,
+		"ACCOUNT_DESCRIPTION": "INTERNAL STAFF TRAINING",
+		"CC": "3GZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 60,
+		"ACCOUNT": 637400,
+		"ACCOUNT_DESCRIPTION": "OVERRIDE COMMISSIONS",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 61,
+		"ACCOUNT": 701070,
+		"ACCOUNT_DESCRIPTION": "MISCELLANEOUS SALES STANDARD RATE",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 62,
+		"ACCOUNT": 701080,
+		"ACCOUNT_DESCRIPTION": "MISCELLANEOUS NON VAT",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 63,
+		"ACCOUNT": 602915,
+		"ACCOUNT_DESCRIPTION": "GUEST SUPPLIES - CONFERENCE",
+		"CC": "3TZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 64,
+		"ACCOUNT": 602900,
+		"ACCOUNT_DESCRIPTION": "CLEANING SUPPLIES PURCHASES",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 65,
+		"ACCOUNT": 602911,
+		"ACCOUNT_DESCRIPTION": "OTHER OPERATING SUPPLIES",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 66,
+		"ACCOUNT": 643255,
+		"ACCOUNT_DESCRIPTION": "TRAIN FARES - TRAINING",
+		"CC": "3GZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 67,
+		"ACCOUNT": 661020,
+		"ACCOUNT_DESCRIPTION": "MARKETING RESEARCH COSTS",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 68,
+		"ACCOUNT": 633200,
+		"ACCOUNT_DESCRIPTION": "MUSIC LICENCE EXPENSE",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 69,
+		"ACCOUNT": 631950,
+		"ACCOUNT_DESCRIPTION": "SECURITY COSTS",
+		"CC": "3GZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 70,
+		"ACCOUNT": 600600,
+		"ACCOUNT_DESCRIPTION": "BEVERAGE ANCILLS",
+		"CC": "3HZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 71,
+		"ACCOUNT": 664120,
+		"ACCOUNT_DESCRIPTION": "MOBILE PHONE COSTS",
+		"CC": "6HH",
+		"DPT": "IT",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 72,
+		"ACCOUNT": 701000,
+		"ACCOUNT_DESCRIPTION": "SALES - ROOMS",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 73,
+		"ACCOUNT": 701030,
+		"ACCOUNT_DESCRIPTION": "SALES - ROOM HIRE AND EQUIPMENT RENTAL",
+		"CC": "3TZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 74,
+		"ACCOUNT": 730100,
+		"ACCOUNT_DESCRIPTION": "MISCELLANEOUS SALES STANDARD RATE",
+		"CC": "3TZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 75,
+		"ACCOUNT": 744900,
+		"ACCOUNT_DESCRIPTION": "VALET PARKING REVENUE - VALET PARKING REVENUE",
+		"CC": "4BA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 76,
+		"ACCOUNT": 745400,
+		"ACCOUNT_DESCRIPTION": "VALET PARKING REVENUE - VALET PARKING REVENUE",
+		"CC": "4FA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 77,
+		"ACCOUNT": 749400,
+		"ACCOUNT_DESCRIPTION": "VALET PARKING REVENUE - VALET PARKING REVENUE",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 78,
+		"ACCOUNT": 602875,
+		"ACCOUNT_DESCRIPTION": "OUTBOOKING COSTS - ROOMS",
+		"CC": "4JZ",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 79,
+		"ACCOUNT": 744800,
+		"ACCOUNT_DESCRIPTION": "PARKING REVENUE - SELF-PARKING REVENUE",
+		"CC": "4BA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 80,
+		"ACCOUNT": 745200,
+		"ACCOUNT_DESCRIPTION": "VALET PARKING REVENUE - VALET PARKING REVENUE",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 81,
+		"ACCOUNT": 749000,
+		"ACCOUNT_DESCRIPTION": "VENDING MACHINES - VENDING MACHINES",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 82,
+		"ACCOUNT": 773100,
+		"ACCOUNT_DESCRIPTION": "COMMISSIONS - COMMISSIONS",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 83,
+		"ACCOUNT": 635600,
+		"ACCOUNT_DESCRIPTION": "A3C CHARGES FROM SA",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 84,
+		"ACCOUNT": 635800,
+		"ACCOUNT_DESCRIPTION": "TRADEMARK ROYALTY FEE PAID",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 85,
+		"ACCOUNT": 643225,
+		"ACCOUNT_DESCRIPTION": "CONGESTION CHARGE",
+		"CC": "6IZ",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 86,
+		"ACCOUNT": 674000,
+		"ACCOUNT_DESCRIPTION": "BANK CHARGES",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 87,
+		"ACCOUNT": 633550,
+		"ACCOUNT_DESCRIPTION": "PROFESSIONAL CHARGES",
+		"CC": "6HA1",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 88,
+		"ACCOUNT": 635810,
+		"ACCOUNT_DESCRIPTION": "BASE MANAGEMENT FEE PAID",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 89,
+		"ACCOUNT": 631101,
+		"ACCOUNT_DESCRIPTION": "BUILDING - CARPENTRY",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 90,
+		"ACCOUNT": 617900,
+		"ACCOUNT_DESCRIPTION": "EMPLOYERS N.I.C INTERFACE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 91,
+		"ACCOUNT": 710501,
+		"ACCOUNT_DESCRIPTION": "BOOK OUT",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 92,
+		"ACCOUNT": 737901,
+		"ACCOUNT_DESCRIPTION": "ALLOWANCES IN ROOM DEPARTMENT",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 93,
+		"ACCOUNT": 600700,
+		"ACCOUNT_DESCRIPTION": "EQUIPMENT RENTAL COS",
+		"CC": "4DA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 94,
+		"ACCOUNT": 611900,
+		"ACCOUNT_DESCRIPTION": "BONUS - INTERFACE",
+		"CC": "3GZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 95,
+		"ACCOUNT": 618150,
+		"ACCOUNT_DESCRIPTION": "PENSION COSTS - INTERFACE",
+		"CC": "3QZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 96,
+		"ACCOUNT": 664605,
+		"ACCOUNT_DESCRIPTION": "STAFF ENTERTAINMENT",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 97,
+		"ACCOUNT": 618700,
+		"ACCOUNT_DESCRIPTION": "TAXI EXPENSES",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 98,
+		"ACCOUNT": 618800,
+		"ACCOUNT_DESCRIPTION": "STAFF BENEFITS",
+		"CC": "6IZ",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 99,
+		"ACCOUNT": 664705,
+		"ACCOUNT_DESCRIPTION": "PLANT FOR THE PLANET COST",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 100,
+		"ACCOUNT": 771300,
+		"ACCOUNT_DESCRIPTION": "OTHER NON OPERATING INCOME",
+		"CC": "8BAB",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 101,
+		"ACCOUNT": 661300,
+		"ACCOUNT_DESCRIPTION": "SPONSORSHIP",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 102,
+		"ACCOUNT": 635807,
+		"ACCOUNT_DESCRIPTION": "SEARCH ENGINE FEES FROM GROUP TO BU",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 103,
+		"ACCOUNT": 637100,
+		"ACCOUNT_DESCRIPTION": "AMERICAN EXPRESS COMMISSION",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 104,
+		"ACCOUNT": 701400,
+		"ACCOUNT_DESCRIPTION": "EXCHANGE PROFIT",
+		"CC": "8ZZ",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 105,
+		"ACCOUNT": 602620,
+		"ACCOUNT_DESCRIPTION": "PAY TV COS",
+		"CC": "4HA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 106,
+		"ACCOUNT": 682001,
+		"ACCOUNT_DESCRIPTION": "BAD DEBT PROVISION",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 107,
+		"ACCOUNT": 632000,
+		"ACCOUNT_DESCRIPTION": "LAUNDRY & DRY CLEANING",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 108,
+		"ACCOUNT": 618600,
+		"ACCOUNT_DESCRIPTION": "RECRUITMENT COSTS",
+		"CC": "6FA",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 109,
+		"ACCOUNT": 635500,
+		"ACCOUNT_DESCRIPTION": "LE CLUB FEES - CHARGES FROM ACCOR SA",
+		"CC": "6LTH",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 110,
+		"ACCOUNT": 618300,
+		"ACCOUNT_DESCRIPTION": "STAFF LAUNDRY - UNIFORM",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 111,
+		"ACCOUNT": 685000,
+		"ACCOUNT_DESCRIPTION": "RENT - OPERATING LEASES - FIXED",
+		"CC": "8ZZ",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 112,
+		"ACCOUNT": 682050,
+		"ACCOUNT_DESCRIPTION": "BAD DEBT EXPENSES - CHARGEBACKS",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 113,
+		"ACCOUNT": 682000,
+		"ACCOUNT_DESCRIPTION": "BAD DEBT EXPENSES - SALES LEDGER",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 114,
+		"ACCOUNT": 666000,
+		"ACCOUNT_DESCRIPTION": "BUSINESS LICENCE",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 115,
+		"ACCOUNT": 638000,
+		"ACCOUNT_DESCRIPTION": "INSURANCE CHARGES",
+		"CC": "8IA",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 116,
+		"ACCOUNT": 631170,
+		"ACCOUNT_DESCRIPTION": "AUTOMATIC EQUIPMENT - MTCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 117,
+		"ACCOUNT": 631165,
+		"ACCOUNT_DESCRIPTION": "PLUMBING & WATER PRODUCTION - CONTRACT",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 118,
+		"ACCOUNT": 630800,
+		"ACCOUNT_DESCRIPTION": "LEASING CONTRACTS",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 119,
+		"ACCOUNT": 631160,
+		"ACCOUNT_DESCRIPTION": "PLUMBING & WATER PRODUCTION - MTCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 120,
+		"ACCOUNT": 631245,
+		"ACCOUNT_DESCRIPTION": "LAMPS & BULBS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 121,
+		"ACCOUNT": 633642,
+		"ACCOUNT_DESCRIPTION": "PAYROLL PROCESSING FEES",
+		"CC": "6FL",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 122,
+		"ACCOUNT": 631103,
+		"ACCOUNT_DESCRIPTION": "BUILDING - DECORATION",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 123,
+		"ACCOUNT": 664270,
+		"ACCOUNT_DESCRIPTION": "TELEPHONE PTCE REPAIRS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 124,
+		"ACCOUNT": 674100,
+		"ACCOUNT_DESCRIPTION": "BANK COLLECTION CHARGES",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 125,
+		"ACCOUNT": 631130,
+		"ACCOUNT_DESCRIPTION": "KITCHEN EQUIPT - MTCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 126,
+		"ACCOUNT": 631100,
+		"ACCOUNT_DESCRIPTION": "BUILDING REPAIRS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 127,
+		"ACCOUNT": 663500,
+		"ACCOUNT_DESCRIPTION": "BUSINESS BOOKS & MAGAZINES GUESTS",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 128,
+		"ACCOUNT": 664300,
+		"ACCOUNT_DESCRIPTION": "TELEPHONE MAINTENANCE CONTRACT",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 129,
+		"ACCOUNT": 631150,
+		"ACCOUNT_DESCRIPTION": "ELECTRICAL - MTCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 130,
+		"ACCOUNT": 631155,
+		"ACCOUNT_DESCRIPTION": "ELECTRICAL - CONTRACTS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 131,
+		"ACCOUNT": 653400,
+		"ACCOUNT_DESCRIPTION": "TRADEMARK ROYALTY FEES - FROM GROUP TO BU",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 132,
+		"ACCOUNT": 633300,
+		"ACCOUNT_DESCRIPTION": "TV LICENCE",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 133,
+		"ACCOUNT": 633640,
+		"ACCOUNT_DESCRIPTION": "PERSONNEL FEES (IRPC)",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 134,
+		"ACCOUNT": 652600,
+		"ACCOUNT_DESCRIPTION": "DISTRIBUTION DIRECT   INTERNAL CHARGE",
+		"CC": "2IR",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 135,
+		"ACCOUNT": 674500,
+		"ACCOUNT_DESCRIPTION": "EXCHANGE DIFFERENCE",
+		"CC": "8ZZ",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 136,
+		"ACCOUNT": 631105,
+		"ACCOUNT_DESCRIPTION": "BUILDING - CONTRACTS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 137,
+		"ACCOUNT": 631120,
+		"ACCOUNT_DESCRIPTION": "A/C & REFRIG. - MTCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 138,
+		"ACCOUNT": 631175,
+		"ACCOUNT_DESCRIPTION": "AUTOMATIC EQUIPMENT - CONTRACTS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 139,
+		"ACCOUNT": 631106,
+		"ACCOUNT_DESCRIPTION": "FIRE PRECAUTION -EQUIPMENT MTCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 140,
+		"ACCOUNT": 631140,
+		"ACCOUNT_DESCRIPTION": "TV EQUIPMENT MAINTENANCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 141,
+		"ACCOUNT": 662100,
+		"ACCOUNT_DESCRIPTION": "PHOTOCOPIER",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 142,
+		"ACCOUNT": 633660,
+		"ACCOUNT_DESCRIPTION": "HYGIENE FEES",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 143,
+		"ACCOUNT": 631135,
+		"ACCOUNT_DESCRIPTION": "KITCHEN EQUIPT - CONTRACTS",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 144,
+		"ACCOUNT": 631102,
+		"ACCOUNT_DESCRIPTION": "BUILDING - EQUIPMENT",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 145,
+		"ACCOUNT": 635610,
+		"ACCOUNT_DESCRIPTION": "ACCORTEL   INTERNAL CHARGES",
+		"CC": "6HH",
+		"DPT": "IT",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 146,
+		"ACCOUNT": 652210,
+		"ACCOUNT_DESCRIPTION": "PCI DSS CHARGES",
+		"CC": "6HH",
+		"DPT": "IT",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 147,
+		"ACCOUNT": 661030,
+		"ACCOUNT_DESCRIPTION": "DESIGN COSTS",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 148,
+		"ACCOUNT": 661011,
+		"ACCOUNT_DESCRIPTION": "DIRECT MARKETING COSTS - EXISTING CLIENTS",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 149,
+		"ACCOUNT": 661230,
+		"ACCOUNT_DESCRIPTION": "SUNDRY MARKETING EXPENSE",
+		"CC": "6IZ",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 150,
+		"ACCOUNT": 703510,
+		"ACCOUNT_DESCRIPTION": "ACCOR SA RETRODISCOUNT RECEIVED BY HOTELS",
+		"CC": "6KR3",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 151,
+		"ACCOUNT": 631104,
+		"ACCOUNT_DESCRIPTION": "BUILDING - SIGNAGE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 152,
+		"ACCOUNT": 667000,
+		"ACCOUNT_DESCRIPTION": "LIQUOR LICENCE",
+		"CC": "4DA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 153,
+		"ACCOUNT": 631180,
+		"ACCOUNT_DESCRIPTION": "WATERPROOFING - MTCE",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 154,
+		"ACCOUNT": 661290,
+		"ACCOUNT_DESCRIPTION": "NON TRADE SUBSCRIPTIONS",
+		"CC": "6GZ",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 155,
+		"ACCOUNT": 661001,
+		"ACCOUNT_DESCRIPTION": "ADVERTISING PRODUCTION COSTS",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 156,
+		"ACCOUNT": 701004,
+		"ACCOUNT_DESCRIPTION": "NO SHOW NON VAT",
+		"CC": "2ZN",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 157,
+		"ACCOUNT": 701010,
+		"ACCOUNT_DESCRIPTION": "SALES - FOOD",
+		"CC": "3HZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 158,
+		"ACCOUNT": 701020,
+		"ACCOUNT_DESCRIPTION": "SALES- BEVERAGE",
+		"CC": "3AZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 159,
+		"ACCOUNT": "ST1030",
+		"ACCOUNT_DESCRIPTION": "NUMBER OF ROOMS SOLD",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 160,
+		"ACCOUNT": "ST1040",
+		"ACCOUNT_DESCRIPTION": "NUMBER OF NIGHTS",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 161,
+		"ACCOUNT": "ST1050",
+		"ACCOUNT_DESCRIPTION": "NUMBER OF COVERS",
+		"CC": "3PA",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 162,
+		"ACCOUNT": 701001,
+		"ACCOUNT_DESCRIPTION": "SALES - ROOMS NON VAT",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 163,
+		"ACCOUNT": 705801,
+		"ACCOUNT_DESCRIPTION": "NO SHOW VAT",
+		"CC": "2ZN",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 164,
+		"ACCOUNT": 737501,
+		"ACCOUNT_DESCRIPTION": "LATE CHECKOUT FEES",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 165,
+		"ACCOUNT": 737601,
+		"ACCOUNT_DESCRIPTION": "RENTAL OF ROLLAWAY BEDS AND CRIBS",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 166,
+		"ACCOUNT": 773900,
+		"ACCOUNT_DESCRIPTION": "RENTAL OF ROLLAWAY BEDS AND CRIBS",
+		"CC": "4ZA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 167,
+		"ACCOUNT": 748600,
+		"ACCOUNT_DESCRIPTION": "VALET PARKING REVENUE - VALET PARKING REVENUE",
+		"CC": "4DA",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 168,
+		"ACCOUNT": 737301,
+		"ACCOUNT_DESCRIPTION": "DAY USE",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 169,
+		"ACCOUNT": 748300,
+		"ACCOUNT_DESCRIPTION": "PARKING THIRD PARTY REVENUE",
+		"CC": "4OAH",
+		"DPT": "Other Sales",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 170,
+		"ACCOUNT": "S32",
+		"ACCOUNT_DESCRIPTION": "UMBER OF STAFF",
+		"CC": "3OA",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 171,
+		"ACCOUNT": "S33",
+		"ACCOUNT_DESCRIPTION": "AXIMUM PERMITTED OF WORKING HOURS",
+		"CC": "6BF",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 172,
+		"ACCOUNT": "S34",
+		"ACCOUNT_DESCRIPTION": "UMBER OF WORKED HOURS",
+		"CC": "2GZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 173,
+		"ACCOUNT": 471029,
+		"ACCOUNT_DESCRIPTION": "Staff Training Accruals",
+		"CC": "6FA",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 174,
+		"ACCOUNT": 472000,
+		"ACCOUNT_DESCRIPTION": "Electricity Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 175,
+		"ACCOUNT": 472001,
+		"ACCOUNT_DESCRIPTION": "Gas Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 176,
+		"ACCOUNT": 300006,
+		"ACCOUNT_DESCRIPTION": "Beverage Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 177,
+		"ACCOUNT": 661002,
+		"ACCOUNT_DESCRIPTION": "Advertising Space Costs",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 178,
+		"ACCOUNT": 661002,
+		"ACCOUNT_DESCRIPTION": "Advertising Space Costs",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 179,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 180,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 181,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 182,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 183,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 184,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 185,
+		"ACCOUNT": 630500,
+		"ACCOUNT_DESCRIPTION": "Non Recharged Equipment Rental",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 186,
+		"ACCOUNT": 661002,
+		"ACCOUNT_DESCRIPTION": "Advertising Space Costs",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 187,
+		"ACCOUNT": 476001,
+		"ACCOUNT_DESCRIPTION": "Audit Fees Accrual",
+		"CC": "6BF",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 188,
+		"ACCOUNT": 476001,
+		"ACCOUNT_DESCRIPTION": "Audit Fees Accrual",
+		"CC": "6BF",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 189,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 190,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 191,
+		"ACCOUNT": 472000,
+		"ACCOUNT_DESCRIPTION": "Electricity Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 192,
+		"ACCOUNT": 476001,
+		"ACCOUNT_DESCRIPTION": "Audit Fees Accrual",
+		"CC": "6BF",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 193,
+		"ACCOUNT": 661002,
+		"ACCOUNT_DESCRIPTION": "Advertising Space Costs",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 194,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 195,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 196,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 197,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 198,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 199,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 200,
+		"ACCOUNT": 684020,
+		"ACCOUNT_DESCRIPTION": "Tax Penalty Cost",
+		"CC": "8ZZ",
+		"DPT": "Below GOI",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 201,
+		"ACCOUNT": 472001,
+		"ACCOUNT_DESCRIPTION": "Gas Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 202,
+		"ACCOUNT": 471048,
+		"ACCOUNT_DESCRIPTION": "Wages Provisions - General",
+		"CC": "6FA",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 203,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 204,
+		"ACCOUNT": 630500,
+		"ACCOUNT_DESCRIPTION": "Non Recharged Equipment Rental",
+		"CC": "2ZZ",
+		"DPT": "Rooms",
+		"DPT_MAIN": "Rooms"
+	},{
+		"No": 205,
+		"ACCOUNT": 478017,
+		"ACCOUNT_DESCRIPTION": "Telephone/Telex Calls Accrual",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 206,
+		"ACCOUNT": 472000,
+		"ACCOUNT_DESCRIPTION": "Electricity Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 207,
+		"ACCOUNT": 631125,
+		"ACCOUNT_DESCRIPTION": "A/C & Refrig. - Contracts",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 208,
+		"ACCOUNT": 661002,
+		"ACCOUNT_DESCRIPTION": "Advertising Space Costs",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 209,
+		"ACCOUNT": 471039,
+		"ACCOUNT_DESCRIPTION": "Life/Health Accrual",
+		"CC": "6FA",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 210,
+		"ACCOUNT": 472000,
+		"ACCOUNT_DESCRIPTION": "Electricity Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 211,
+		"ACCOUNT": 476001,
+		"ACCOUNT_DESCRIPTION": "Audit Fees Accrual",
+		"CC": "6BF",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 212,
+		"ACCOUNT": 476001,
+		"ACCOUNT_DESCRIPTION": "Audit Fees Accrual",
+		"CC": "6BF",
+		"DPT": "Administration",
+		"DPT_MAIN": "Administration"
+	},{
+		"No": 213,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 214,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 215,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 216,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 217,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 218,
+		"ACCOUNT": 300002,
+		"ACCOUNT_DESCRIPTION": "Food Stock (Data Conversion)",
+		"CC": "3ZZ",
+		"DPT": "F&B",
+		"DPT_MAIN": "F&B"
+	},{
+		"No": 219,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 220,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 221,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 222,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 223,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 224,
+		"ACCOUNT": 631800,
+		"ACCOUNT_DESCRIPTION": "Fire Precaution & Equipment Contract",
+		"CC": "6MZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 225,
+		"ACCOUNT": 661002,
+		"ACCOUNT_DESCRIPTION": "Advertising Space Costs",
+		"CC": "6IB7",
+		"DPT": "Sales",
+		"DPT_MAIN": "Sales"
+	},{
+		"No": 226,
+		"ACCOUNT": 472001,
+		"ACCOUNT_DESCRIPTION": "Gas Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	},{
+		"No": 227,
+		"ACCOUNT": 472005,
+		"ACCOUNT_DESCRIPTION": "Water/Sewage Accrual",
+		"CC": "6NZ",
+		"DPT": "Maintenance",
+		"DPT_MAIN": "Maintenance"
+	}
+]
